@@ -1,0 +1,10 @@
+F:\C#program\softkeyboard\testkeyboard\bin\Debug\testkeyboard.exe.config
+F:\C#program\softkeyboard\testkeyboard\bin\Debug\testkeyboard.exe
+F:\C#program\softkeyboard\testkeyboard\bin\Debug\testkeyboard.pdb
+F:\C#program\softkeyboard\testkeyboard\obj\Debug\testkeyboard.csprojAssemblyReference.cache
+F:\C#program\softkeyboard\testkeyboard\obj\Debug\testkeyboard.Form1.resources
+F:\C#program\softkeyboard\testkeyboard\obj\Debug\testkeyboard.Properties.Resources.resources
+F:\C#program\softkeyboard\testkeyboard\obj\Debug\testkeyboard.csproj.GenerateResource.cache
+F:\C#program\softkeyboard\testkeyboard\obj\Debug\testkeyboard.csproj.CoreCompileInputs.cache
+F:\C#program\softkeyboard\testkeyboard\obj\Debug\testkeyboard.exe
+F:\C#program\softkeyboard\testkeyboard\obj\Debug\testkeyboard.pdb
